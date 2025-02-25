@@ -1,2 +1,6 @@
 # generative_ai_course
-generative ai course homeword submition
+## about me
+姓名：彭安慈
+系級：資工所 一年級
+課程名稱：生成式AI：文字與圖像生成的原理與實務_國立臺灣師範大學衛星課程
+修課學期：113-2
